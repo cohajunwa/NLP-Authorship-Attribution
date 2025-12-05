@@ -1,0 +1,5 @@
+Given a set of texts with known authors and a query text, determine the author of the query text. Analyze the writing styles of the input texts, disregarding the differences in topic and content. Focus on linguistic features such as phrasal verbs, modal verbs, punctuation, rare words, affixes, quantities, humor, sarcasm, typographical errors, and misspellings. 
+```
+Input query text: {{query_text}} 
+Texts from potential authors: {{example_texts}}
+```
